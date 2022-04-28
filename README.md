@@ -76,4 +76,7 @@ void loop()
  ![output](./img.png)
  ![output](./img1.png)
 
+# RESULT :
+
+Thus the simulation output is completed in tinkercad.
 
